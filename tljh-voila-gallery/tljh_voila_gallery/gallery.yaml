@@ -1,4 +1,11 @@
 examples:
+  country-indicators:
+    title: country-indicators
+    description: Explore the correlations between indicators of development using matplotlib and ipywidgets
+    url: voila/render/index.ipynb
+    repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
+    ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
+    image_url: https://i.imgur.com/IeG75O3.png
   digitization:
     title: digitization
     description: digitization
