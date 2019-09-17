@@ -1,11 +1,11 @@
 examples:
-  country-indicators:
-    title: country-indicators
-    description: Explore the correlations between indicators of development using matplotlib and ipywidgets
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
-    ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
-    image_url: https://i.imgur.com/IeG75O3.png
+  digitization:
+    title: digitization
+    description: digitization
+    url: voila/render/01-Fundamentals_digitization_interactive.ipynb
+    repo_url: https://github.com/guiwitz/Fundamentals_image_processing
+    ref: 9971c1742f3300e3835a03566d22ab23de1387b7
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   gaussian-density:
     title: gaussian-density
     description: Explore the normal distribution interactively with bqplot
