@@ -5,7 +5,7 @@ examples:
     url: voila/render/01-Fundamentals_digitization_interactive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/digitization.png
   contrast:
     title: contrast
     description: contrast
