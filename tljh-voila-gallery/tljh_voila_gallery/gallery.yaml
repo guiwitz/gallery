@@ -1,57 +1,57 @@
 examples:
   digitization:
     title: digitization
-    description: Digitization
+    description: digitization
     url: voila/render/01-Fundamentals_digitization_interactive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/digitization.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   contrast:
-    title: Contrast
+    title: contrast
     description: contrast
     url: voila/render/02-Fundamentals_contrast_interactive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
     image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   browsing:
-    title: Browsing
+    title: browsing
     description: browsing
     url: voila/render/03-Fundamentals_browsing_ineractive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/browsing.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   template-matching:
-    title: Template-matching
+    title: template-matching
     description: template-matching
     url: voila/render/04-Fundamentals_template_matching_interactive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/template-matching.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   filtering:
-    title: Filtering
+    title: filtering
     description: filtering
     url: voila/render/05-Fundamentals_filtering_interactive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/filtering.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   thresholding:
-    title: Thresholding
+    title: ithresholding
     description: thresholding
-    url: voila/render/06-Fundamentals_thresholding_interactive.ipynb
+    url: voila/render/06-Fundamentals_thresholding_ineractive.ipynb
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/thresholding.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   binary:
-    title: Binary
+    title: binary
     description: binary
     url: voila/render/07-Fundamentals_binary_interactive.ipynb
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/binary.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
   orientation:
-    title: Orientation
+    title: orientation
     description: orientation
     url: voila/render/08-Fundamentals_filter_orientation.ipynb
     ref: e0ddc5e2535690c48d7a886b61f187084705871e
     repo_url: https://github.com/guiwitz/Fundamentals_image_processing
-    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/gallery_images/orientation.png
+    image_url: https://raw.githubusercontent.com/guiwitz/Fundamentals_image_processing/master/Fundamentals_title.png
